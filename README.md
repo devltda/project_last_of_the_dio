@@ -1,3 +1,5 @@
+# project_last_of_the_dio
+
 # Image Text Recognition Project
 
 ## Introdução
@@ -15,4 +17,4 @@ Este projeto realiza o reconhecimento de texto em imagens utilizando a bibliotec
 
 ## Possíveis Melhorias
 - Utilização de modelos de IA mais avançados para OCR.
-- Implementação de filtros de imagem para melhorar a precisão do OCR.# project_last_of_the_dio
+- Implementação de filtros de imagem para melhorar a precisão do OCR.
